@@ -1,6 +1,6 @@
 const getjoke = async() =>{
     const config = {headers: {Accept : "application/json"}}
-    const res = await axios.get('https://cors-anywhere.herokuapp.com/https://icanhazdadjoke.com',config);
+    const res = await axios.get('https://icanhazdadjoke.com',config);
     return res.data.joke
 }
 const h2 = document.querySelector('#joke');
