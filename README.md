@@ -10,6 +10,6 @@ The project will make a request to the ICanHazDadJoke API and display a random j
 
 ## Credits
 
-* Live Demo (https://anshit-2003.github.io/DadJokeMaker/)`
+* Live Demo (https://anshit-2003.github.io/DadJokeMaker/)
 * The dad jokes are generated using the ICanHazDadJoke API (https://icanhazdadjoke.com/api)
 * The Axios library (https://github.com/axios/axios).
